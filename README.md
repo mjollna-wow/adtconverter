@@ -1,3 +1,5 @@
+This repo has been migrated from Bitbucket and converted from Mercurial to git.
+
 # adtconverter
 This programs allows conversion for adt pre-Cataclysm to Cataclysm format. 
 
